@@ -1,5 +1,4 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
 * int_fmt - adds the int value into the buffer
 * @buffer: holds the members for box, size and startls

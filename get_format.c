@@ -1,5 +1,4 @@
-#include "holberton.h"
-
+#include "main.h"
 mk_buffer(*get_format(const char *format))(mk_buffer buffer, va_list)
 {
 	/* Variable declaration */

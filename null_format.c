@@ -1,5 +1,4 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
  * check_null - Checks if a constant char pointer is NULL
  * @format: the character pointer to be checked

@@ -1,5 +1,4 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
  * str_fmt - Handles conversion specifier "s"
  * @buffer: Pointer to struct buffer

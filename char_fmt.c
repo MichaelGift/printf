@@ -1,5 +1,4 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
 * char_fmt - adds the char value into the buffer
 * @buffer: holds the members for box, size and startls

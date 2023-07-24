@@ -1,5 +1,4 @@
-#include "holberton.h"
-
+#include "main.h"
 mk_buffer create_buffer(mk_buffer container)
 {
  /* Variable initialization */
