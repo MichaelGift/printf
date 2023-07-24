@@ -27,6 +27,6 @@ void handle_custom_S(va_list args, Flags flags  __attribute__((unused)))
 		}
 		else
 			_putchar(c);
-		str++
+		str++;
 	}
 }

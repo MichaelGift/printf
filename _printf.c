@@ -38,8 +38,7 @@ int _printf(const char *format, ...)
 					format_handlers, sizeof(format_handlers
 						) / sizeof(format_handlers[0]));
 			if (handler_index != -1)
-				format_handlers[handler_index].handler(args, fla
-						gs);
+				format_handlers[handler_index].handler(args, flags);
 			else
 				_putchar(format[i]);
 		}
