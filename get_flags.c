@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * get_flags - Calculates active flags
- * @format: Formatted string in which to print the arguments
- * @i: take a parameter.
+ * get_flags - flags any active flags
+ * @format: string in which to print the arguments
+ * @i: a parameter
  * Return: Flags:
  */
 int get_flags(const char *format, int *i)
